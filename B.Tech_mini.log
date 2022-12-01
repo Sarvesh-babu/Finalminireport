@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.18)  2 DEC 2022 00:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.18)  2 DEC 2022 01:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -874,14 +874,17 @@ Here is how much of TeX's memory you used:
  70i,14n,77p,1040b,545s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Us
 ers/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
-<C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.
-pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.p
-fb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb>
-<C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:
-/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on B.Tech_mini.pdf (30 pages, 4695831 bytes).
+<C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8
+.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmr12.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmr8.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courie
+r/ucrr8a.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/u
+tmb8a.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr
+8a.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a
+.pfb>
+Output written on B.Tech_mini.pdf (30 pages, 4713514 bytes).
 PDF statistics:
- 400 PDF objects out of 1000 (max. 8388607)
+ 410 PDF objects out of 1000 (max. 8388607)
  76 named destinations out of 1000 (max. 500000)
  325 words of extra memory for PDF output out of 10000 (max. 10000000)
 
