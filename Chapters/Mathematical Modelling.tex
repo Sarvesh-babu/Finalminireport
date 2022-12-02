@@ -7,18 +7,23 @@
 		
 	The SoC of the vehicle is calculated from the following equations:
 	
-	\begin{center}
-	
-	                             $SoC_{min}$ $\leq$ $SoC$ $\leq$ $SoC_{max}$
-	                             
-	               $SoC_{y}$ = $SoC_{y-1}$ + $P_{batt}(y)$ $\times$ $\partial y$ $\times$ $\eta c$
-	                 
-	               $SoC_{y}$ = $SoC_{y-1}$ - $P_{batt}(y)$ $\times$ $\partial y$ $\times$ $\eta d$
-	                 
-	               $P_{batt}(y)$ = $SoC_{y}$ $\times$ $E$
-	               
-	  Initial Power = Generation - Load
-	\end{center}
+
+			\begin{equation}
+		                             $SoC_{min}$ $\leq$ $SoC$ $\leq$ $SoC_{max}$\label{eq:socminmax}
+		    \end{equation}
+
+		    \begin{equation}                         
+		               $SoC_{y}$ = $SoC_{y-1}$ + $P_{batt}(y)$ $\times$ $\partial y$ $\times$ $\eta c$
+			\end{equation}
+		    \begin{equation}             
+		               $SoC_{y}$ = $SoC_{y-1}$ - $P_{batt}(y)$ $\times$ $\partial y$ $\times$ $\eta d$
+			\end{equation}
+		    \begin{equation}             
+		               $P_{batt}(y)$ = $SoC_{y}$ $\times$ $E$
+		    \end{equation}
+		  Initial Power = Generation - Load
+
+
 	  SoC limits:  
 	 
 	   $SoC_{min}$ and $SoC_{max}$ are  the maximum and minimum SoC of the EV respectively.

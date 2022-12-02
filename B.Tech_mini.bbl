@@ -1,32 +1,10 @@
 \begin{thebibliography}{}
 
-\bibitem[\protect\citeauthoryear{Lamport}{Lamport}{1986}]{lamport:86}
-Lamport, L. (1986).
-\newblock {\em \LaTeX: A document preparation system}.
-\newblock Addision-Wesley.
-
-\bibitem[\protect\citeauthoryear{Ramachandran}{Ramachandran}{2001}]{viz:mayavi}
-Ramachandran, P. (2001, August).
-\newblock {MayaVi}: A free tool for {CFD} data visualization.
-\newblock In {\em 4th Annual CFD Symposium}. Aeronautical Society of India.
-\newblock Software available at: {http://mayavi.sf.net}.
-
-\bibitem[\protect\citeauthoryear{Ramachandran}{Ramachandran}{2004}]{prabhu:xx}
-Ramachandran, P. (2004, July).
-\newblock {\em \LaTeX\ class for dissertations submitted to {IIT-M}}.
-\newblock Ph.\ D. thesis, Department of Aerospace Engineering, IIT-Madras,
-  Chennai -- 600036.
-
-\bibitem[\protect\citeauthoryear{Ramachandran, Rajan, and
-  Ramakrishna}{Ramachandran et~al.}{2003}]{pan:pr:flat-fst}
-Ramachandran, P., S.~C. Rajan, and M.~Ramakrishna (2003).
-\newblock A fast, two-dimensional panel method.
-\newblock {\em SIAM Journal on Scientific Computing\/}~{\em 24\/}(6),
-  1864--1878.
-
-\bibitem[\protect\citeauthoryear{van Rossum et~al.}{van Rossum et~al.}{91
-  }]{py:python}
-van Rossum, G. et~al. (1991--).
-\newblock The {Python} programming language.
+\bibitem[\protect\citeauthoryear{Lee, Li, and Low}{Lee et~al.}{2019}]{evdata}
+Lee, Z.~J., T.~Li, and S.~H. Low (2019, June).
+\newblock {ACN}-{Data}: {Analysis} and {Applications} of an {Open} {EV}
+  {Charging} {Dataset}.
+\newblock In {\em Proceedings of the Tenth International Conference on Future
+  Energy Systems}, e-Energy '19.
 
 \end{thebibliography}
