@@ -1,10 +1,14 @@
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Two IITM logos in a row. This is also an illustration of a very long figure caption that wraps around two two lines. Notice that the caption is single-spaced.\relax }}{3}{figure.caption.8}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Vehicle Classification\relax }}{6}{figure.caption.10}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Vehicle Classification\relax }}{3}{figure.caption.8}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Proposed Algorithm for determining Charging/Discharging Pattern\relax }}{4}{figure.caption.9}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\addvspace {10\p@ }
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Voltage loss plot when EV is connected in Bus 2 and 18 of a 33 Bus system - Scenario 1 - case 1 \relax }}{7}{figure.caption.15}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Voltage loss plot when EV is connected in Bus 2 and 18 of a 33 Bus system - Scenario 1 - case 2\relax }}{7}{figure.caption.16}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Voltage loss plot when EV is connected in Bus 2 and 18 of a 33 Bus system - Scenario 1 - case 3\relax }}{7}{figure.caption.17}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Voltage loss plot when EV is connected in Bus 2 and 18 of a 33 Bus system - Scenario 2 - case 1\relax }}{8}{figure.caption.18}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Voltage loss plot when EV is connected in Bus 2 and 18 of a 33 Bus system - Scenario 2 - case 2\relax }}{8}{figure.caption.19}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Voltage loss plot when EV is connected in Bus 2 and 18 of a 33 Bus system - Scenario 2 - case 3\relax }}{8}{figure.caption.20}%
 \addvspace {10\p@ }
