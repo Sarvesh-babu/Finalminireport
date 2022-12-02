@@ -13,6 +13,7 @@
 \contentsline {section}{\numberline {1.4}*****}{1}{section.1.4}%
 \contentsline {section}{\numberline {1.5}*****}{1}{section.1.5}%
 \contentsline {section}{\numberline {1.6}Motivation}{1}{section.1.6}%
+<<<<<<< HEAD
 \contentsline {section}{\numberline {1.7}Package Options}{1}{section.1.7}%
 \contentsline {section}{\numberline {1.8}Example Figures and tables}{1}{section.1.8}%
 \contentsline {section}{\numberline {1.9}Bibliography with BIB\TeX }{1}{section.1.9}%
@@ -34,3 +35,28 @@
 \contentsline {chapter}{\numberline {6}CONCLUSIONS AND FURTHER WORK}{10}{chapter.6}%
 \contentsline {chapter}{REFERENCES}{13}{chapter.6}%
 \contentsline {chapter}{SIMILARITY CHECK REPORT}{14}{chapter*.22}%
+=======
+\contentsline {section}{\numberline {1.7}Package Options}{2}{section.1.7}%
+\contentsline {section}{\numberline {1.8}Example Figures and tables}{2}{section.1.8}%
+\contentsline {section}{\numberline {1.9}Bibliography with BIB\TeX }{2}{section.1.9}%
+\contentsline {section}{\numberline {1.10}Other useful \LaTeX \ packages}{4}{section.1.10}%
+\contentsline {chapter}{\numberline {2}LITERATURE SURVEY}{5}{chapter.2}%
+\contentsline {chapter}{\numberline {3}METHODOLOGY}{6}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Vehicle Classification}{6}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Travel Pattern Establishment}{6}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Charging/Discharging pattern Establishment}{6}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Mathematical Modelling}{7}{chapter.4}%
+\contentsline {section}{\numberline {4.1}SoC Calculation}{7}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Best Pattern for charging}{7}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Maximum Power required by EV}{8}{section.4.3}%
+\contentsline {chapter}{\numberline {5}RESULTS \& DISCUSSION}{9}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Tabulations}{9}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Voltage Magnitude Graphs for Different Scenarios}{10}{section.5.2}%
+\contentsline {section}{\numberline {5.3}*****}{11}{section.5.3}%
+\contentsline {chapter}{\numberline {6}CONCLUSIONS AND FURTHER WORK}{12}{chapter.6}%
+\contentsline {chapter}{REFERENCES}{15}{chapter.6}%
+\contentsline {chapter}{PUBLICATIONS}{16}{chapter*.17}%
+\contentsline {chapter}{\numberline {A}FIRST SET DATA}{17}{appendix.A}%
+\contentsline {chapter}{\numberline {B}SECOND SET DATA}{18}{appendix.B}%
+\contentsline {chapter}{SIMILARITY CHECK REPORT}{19}{appendix*.18}%
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c

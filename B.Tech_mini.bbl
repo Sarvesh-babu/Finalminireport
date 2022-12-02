@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \begin{thebibliography}{1}
 
 \bibitem{evdata}
@@ -6,5 +7,15 @@ Zachary~J. Lee, Tongxin Li, and Steven~H. Low.
   {Charging} {Dataset}.
 \newblock In {\em Proceedings of the Tenth International Conference on Future
   Energy Systems}, e-Energy '19, June 2019.
+=======
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Lee, Li, and Low}{Lee et~al.}{2019}]{evdata}
+Lee, Z.~J., T.~Li, and S.~H. Low (2019, June).
+\newblock {ACN}-{Data}: {Analysis} and {Applications} of an {Open} {EV}
+  {Charging} {Dataset}.
+\newblock In {\em Proceedings of the Tenth International Conference on Future
+  Energy Systems}, e-Energy '19.
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 
 \end{thebibliography}

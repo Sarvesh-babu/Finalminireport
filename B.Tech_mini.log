@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.18)  3 DEC 2022 00:53
+=======
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.18)  2 DEC 2022 22:28
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -415,7 +419,11 @@ Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@dima=\skip56
 \bigstrutjot=\dimen172
 )
+<<<<<<< HEAD
 LaTeX Font Info:    Trying to load font information for T1+ptm on input line 17
+=======
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 33
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 .
 
 (C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
@@ -450,6 +458,7 @@ or select author-year BibTeX style, e.g. plainnat
 )
 \openout1 = `B.Tech_mini.aux'.
 
+<<<<<<< HEAD
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
@@ -468,6 +477,26 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
+=======
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -522,7 +551,11 @@ Package caption Info: End \AtBeginDocument code.
 ) (C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fc-english.def
 File: fc-english.def 2016/01/12
 )
+<<<<<<< HEAD
 Package hyperref Info: Link coloring OFF on input line 17.
+=======
+Package hyperref Info: Link coloring OFF on input line 33.
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 (B.Tech_mini.out) (B.Tech_mini.out)
 \@outlinefile=\write3
 \openout3 = `B.Tech_mini.out'.
@@ -530,7 +563,11 @@ Package hyperref Info: Link coloring OFF on input line 17.
 <SASTRA_Combined_Logo.jpg, id=145, 1195.1049pt x 284.7438pt>
 File: SASTRA_Combined_Logo.jpg Graphic file (type jpg)
 <use SASTRA_Combined_Logo.jpg>
+<<<<<<< HEAD
 Package pdftex.def Info: SASTRA_Combined_Logo.jpg  used on input line 73.
+=======
+Package pdftex.def Info: SASTRA_Combined_Logo.jpg  used on input line 89.
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 (pdftex.def)             Requested size: 408.318pt x 109.85045pt.
  [1
 
@@ -538,14 +575,22 @@ Package pdftex.def Info: SASTRA_Combined_Logo.jpg  used on input line 73.
 ed_Logo.jpg>]
 File: SASTRA_Combined_Logo.jpg Graphic file (type jpg)
 <use SASTRA_Combined_Logo.jpg>
+<<<<<<< HEAD
 Package pdftex.def Info: SASTRA_Combined_Logo.jpg  used on input line 100.
+=======
+Package pdftex.def Info: SASTRA_Combined_Logo.jpg  used on input line 116.
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 (pdftex.def)             Requested size: 406.87737pt x 109.85045pt.
 
 Certificate
 ! Missing } inserted.
 <inserted text> 
                 }
+<<<<<<< HEAD
 l.109 	\end{doublespace}
+=======
+l.125 	\end{doublespace}
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
                         
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -554,22 +599,38 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 112--117
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 128--133
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 112--117
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 128--133
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 112--117
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 128--133
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 
  []
 
 
+<<<<<<< HEAD
 Overfull \hbox (1.0053pt too wide) in paragraph at lines 123--124
+=======
+Overfull \hbox (1.0053pt too wide) in paragraph at lines 139--140
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 \T1/ptm/b/n/12 Examiner-I |  Examiner-II 
  []
 
@@ -578,44 +639,76 @@ Overfull \hbox (1.0053pt too wide) in paragraph at lines 123--124
 ]
 File: SASTRA_Combined_Logo.jpg Graphic file (type jpg)
 <use SASTRA_Combined_Logo.jpg>
+<<<<<<< HEAD
 Package pdftex.def Info: SASTRA_Combined_Logo.jpg  used on input line 127.
+=======
+Package pdftex.def Info: SASTRA_Combined_Logo.jpg  used on input line 143.
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 (pdftex.def)             Requested size: 406.87737pt x 109.85045pt.
 
 Declaration
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 134--135
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 138--148
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 154--164
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 138--148
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 154--164
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 138--148
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 154--164
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 138--148
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 154--164
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 138--148
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 154--164
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 
  []
 
 [3
 
 ]
+<<<<<<< HEAD
 Overfull \hbox (26.50307pt too wide) in paragraph at lines 159--160
+=======
+Overfull \hbox (26.50307pt too wide) in paragraph at lines 175--176
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 []\T1/ptm/m/n/12 We also ren-der our sin-cere thanks to project co-or-di-na-tor
 s, \T1/ptm/b/n/12 Dr. Karthikaikan-nan D\T1/ptm/m/n/12 , SAP/EEE/SEEE
  []
@@ -623,54 +716,95 @@ s, \T1/ptm/b/n/12 Dr. Karthikaikan-nan D\T1/ptm/m/n/12 , SAP/EEE/SEEE
 [4
 
 ]
+<<<<<<< HEAD
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
 84.
  (C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 Underfull \hbox (badness 10000) in paragraph at lines 194--200
+=======
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
+00.
+ (C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 210--216
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 194--200
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 210--216
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 194--200
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 210--216
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 
  []
 
 [5
 
 ]
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 230--238
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 246--254
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 230--238
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 246--254
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 230--238
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 246--254
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 
  []
 
 [6]
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 266--272
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 282--288
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 266--272
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 282--288
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 266--272
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 282--288
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 
  []
 
@@ -709,12 +843,74 @@ l.1 \chapter
 
 
 ]
+<<<<<<< HEAD
+=======
+Package epstopdf Info: Source file: <iitm.eps>
+(epstopdf)                    date: 2009-03-09 22:58:00
+(epstopdf)                    size: 627003 bytes
+(epstopdf)             Output file: <iitm-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-12-31 14:54:50
+(epstopdf)                    size: 52932 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=iitm-eps-converted-t
+o.pdf iitm.eps>
+(epstopdf)             \includegraphics on input line 92.
+Package epstopdf Info: Output file is already uptodate.
+<iitm-eps-converted-to.pdf, id=279, 109.40875pt x 109.40875pt>
+File: iitm-eps-converted-to.pdf Graphic file (type pdf)
+<use iitm-eps-converted-to.pdf>
+Package pdftex.def Info: iitm-eps-converted-to.pdf  used on input line 92.
+(pdftex.def)             Requested size: 109.40846pt x 109.40846pt.
+Package epstopdf Info: Source file: <iitm.eps>
+(epstopdf)                    date: 2009-03-09 22:58:00
+(epstopdf)                    size: 627003 bytes
+(epstopdf)             Output file: <iitm-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-12-31 14:54:50
+(epstopdf)                    size: 52932 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=iitm-eps-converted-t
+o.pdf iitm.eps>
+(epstopdf)             \includegraphics on input line 93.
+Package epstopdf Info: Output file is already uptodate.
+File: iitm-eps-converted-to.pdf Graphic file (type pdf)
+<use iitm-eps-converted-to.pdf>
+Package pdftex.def Info: iitm-eps-converted-to.pdf  used on input line 93.
+(pdftex.def)             Requested size: 109.40846pt x 109.40846pt.
+ [2] [3 <./iitm-eps-converted-to.pdf>]
+
+Package natbib Warning: Citation `lamport:86' on page 4 undefined on input line
+ 145.
+
+
+Package natbib Warning: Citation `lamport:86' on page 4 undefined on input line
+ 146.
+
+
+Package natbib Warning: Citation `prabhu:xx' on page 4 undefined on input line 
+146.
+
+
+Package natbib Warning: Citation `viz:mayavi' on page 4 undefined on input line
+ 150.
+
+
+Package natbib Warning: Citation `pan:pr:flat-fst' on page 4 undefined on input
+ line 152.
+
+
+Package natbib Warning: Citation `py:python' on page 4 undefined on input line 
+153.
+
+) (Chapters/Objectives.tex [4]
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 CHAPTER 2.
 ) (Chapters/Experimental.tex [2
 
 ]
 CHAPTER 3.
+<<<<<<< HEAD
 <classification.png, id=285, 499.8675pt x 216.81pt>
+=======
+<classification.png, id=304, 499.8675pt x 216.81pt>
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 File: classification.png Graphic file (type png)
 <use classification.png>
 Package pdftex.def Info: classification.png  used on input line 10.
@@ -728,9 +924,245 @@ Package pdftex.def Info: Ev_flowchart.jpg  used on input line 29.
 
  <./classification.png>] [4 <./Ev_flowchart.jpg>]
 CHAPTER 4.
+<<<<<<< HEAD
 ) (Chapters/Results.tex [5
+=======
+! Display math should end with $$.
+<to be read again> 
+                   S
+l.12 		                             $S
+                                      oC_{min}$ $\leq$ $SoC$ $\leq$ $SoC_{ma...
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 
-]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.12 		                             $SoC_
+                                         {min}$ $\leq$ $SoC$ $\leq$ $SoC_{ma...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 		    \end{equation}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! You can't use `\eqno' in horizontal mode.
+\endmathdisplay@a ...\df@tag \@empty \else \veqno 
+                                                  \alt@tag \df@tag \fi \ifx ...
+l.13 		    \end{equation}
+                         
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.13 		    \end{equation}
+                         
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Display math should end with $$.
+<to be read again> 
+                   \endgroup 
+l.13 		    \end{equation}
+                         
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+! Display math should end with $$.
+<to be read again> 
+                   S
+l.16 		               $S
+                        oC_{y}$ = $SoC_{y-1}$ + $P_{batt}(y)$ $\times$ $\par...
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.16 		               $SoC_
+                           {y}$ = $SoC_{y-1}$ + $P_{batt}(y)$ $\times$ $\par...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 			\end{equation}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! You can't use `\eqno' in horizontal mode.
+\endmathdisplay@a ...\df@tag \@empty \else \veqno 
+                                                  \alt@tag \df@tag \fi \ifx ...
+l.17 			\end{equation}
+                      
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.17 			\end{equation}
+                      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Display math should end with $$.
+<to be read again> 
+                   \endgroup 
+l.17 			\end{equation}
+                      
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+! Display math should end with $$.
+<to be read again> 
+                   S
+l.19 		               $S
+                        oC_{y}$ = $SoC_{y-1}$ - $P_{batt}(y)$ $\times$ $\par...
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.19 		               $SoC_
+                           {y}$ = $SoC_{y-1}$ - $P_{batt}(y)$ $\times$ $\par...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 			\end{equation}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! You can't use `\eqno' in horizontal mode.
+\endmathdisplay@a ...\df@tag \@empty \else \veqno 
+                                                  \alt@tag \df@tag \fi \ifx ...
+l.20 			\end{equation}
+                      
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.20 			\end{equation}
+                      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Display math should end with $$.
+<to be read again> 
+                   \endgroup 
+l.20 			\end{equation}
+                      
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+! Display math should end with $$.
+<to be read again> 
+                   P
+l.22 		               $P
+                        _{batt}(y)$ = $SoC_{y}$ $\times$ $E$
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.22 		               $P_
+                         {batt}(y)$ = $SoC_{y}$ $\times$ $E$
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 		    \end{equation}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! You can't use `\eqno' in horizontal mode.
+\endmathdisplay@a ...\df@tag \@empty \else \veqno 
+                                                  \alt@tag \df@tag \fi \ifx ...
+l.23 		    \end{equation}
+                         
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.23 		    \end{equation}
+                         
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Display math should end with $$.
+<to be read again> 
+                   \endgroup 
+l.23 		    \end{equation}
+                         
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+[7
+
+]) (Chapters/Results.tex [8]
 CHAPTER 5.
 
 Overfull \hbox (41.45912pt too wide) in paragraph at lines 10--17
@@ -743,6 +1175,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+<<<<<<< HEAD
 <sc 1 (00_00).jpg, id=306, 475.17525pt x 284.262pt>
 File: sc 1 (00_00).jpg Graphic file (type jpg)
 <use sc 1 (00_00).jpg>
@@ -769,14 +1202,59 @@ File: sc 2 (00_20).jpg Graphic file (type jpg)
 Package pdftex.def Info: sc 2 (00_20).jpg  used on input line 92.
 (pdftex.def)             Requested size: 327.19374pt x 181.33289pt.
 <sc 2 (00_40).jpg, id=311, 493.24275pt x 269.808pt>
+=======
+<sc 1 (00_00).jpg, id=330, 475.17525pt x 284.262pt>
+File: sc 1 (00_00).jpg Graphic file (type jpg)
+<use sc 1 (00_00).jpg>
+Package pdftex.def Info: sc 1 (00_00).jpg  used on input line 74.
+(pdftex.def)             Requested size: 257.08334pt x 153.79846pt.
+<sc 1 (00_20).jpg, id=331, 497.4585pt x 276.43275pt>
+File: sc 1 (00_20).jpg Graphic file (type jpg)
+<use sc 1 (00_20).jpg>
+Package pdftex.def Info: sc 1 (00_20).jpg  used on input line 75.
+(pdftex.def)             Requested size: 257.08334pt x 142.86429pt.
+<sc 1 (00_40).jpg, id=332, 493.24275pt x 272.81924pt>
+File: sc 1 (00_40).jpg Graphic file (type jpg)
+<use sc 1 (00_40).jpg>
+Package pdftex.def Info: sc 1 (00_40).jpg  used on input line 76.
+(pdftex.def)             Requested size: 257.08334pt x 142.19984pt.
+<sc 2 (00_00).jpg, id=333, 494.44725pt x 272.217pt>
+File: sc 2 (00_00).jpg Graphic file (type jpg)
+<use sc 2 (00_00).jpg>
+Package pdftex.def Info: sc 2 (00_00).jpg  used on input line 77.
+(pdftex.def)             Requested size: 257.08334pt x 141.53702pt.
+<sc 2 (00_20).jpg, id=334, 494.44725pt x 274.02374pt>
+File: sc 2 (00_20).jpg Graphic file (type jpg)
+<use sc 2 (00_20).jpg>
+Package pdftex.def Info: sc 2 (00_20).jpg  used on input line 78.
+(pdftex.def)             Requested size: 257.08334pt x 142.47644pt.
+<sc 2 (00_40).jpg, id=335, 493.24275pt x 269.808pt>
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 File: sc 2 (00_40).jpg Graphic file (type jpg)
 <use sc 2 (00_40).jpg>
 Package pdftex.def Info: sc 2 (00_40).jpg  used on input line 96.
 (pdftex.def)             Requested size: 327.19374pt x 178.98367pt.
 ) (Chapters/Conclusion.tex [6
 
+<<<<<<< HEAD
 ] [7 <./sc 1 (00_00).jpg> <./sc 1 (00_20).jpg> <./sc 1 (00_40).jpg>] [8 <./sc 2
  (00_00).jpg> <./sc 2 (00_20).jpg> <./sc 2 (00_40).jpg>] [9]
+=======
+Overfull \hbox (49.02504pt too wide) in paragraph at lines 74--80
+[] []
+ []
+
+
+Overfull \hbox (49.02504pt too wide) in paragraph at lines 74--80
+[] [] 
+ []
+
+[9
+
+]) (Chapters/Conclusion.tex [10 <./sc 1 (00_00).jpg> <./sc 1 (00_20).jpg> <./sc
+ 1 (00_40).jpg> <./sc 2 (00_00).jpg> <./sc 2 (00_20).jpg> <./sc 2 (00_40).jpg>]
+ [11]
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 CHAPTER 6.
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--17
@@ -793,7 +1271,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--17
 
  []
 
+<<<<<<< HEAD
 [10
+=======
+[12
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 29--36
@@ -810,7 +1292,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--36
 
  []
 
+<<<<<<< HEAD
 [11]
+=======
+[13]
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 Underfull \hbox (badness 10000) in paragraph at lines 48--55
 
  []
@@ -825,6 +1311,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--55
 
  []
 
+<<<<<<< HEAD
 [12]) (B.Tech_mini.bbl) [13
 
 ] [14
@@ -845,6 +1332,45 @@ Here is how much of TeX's memory you used:
  579185 words of memory out of 3000000
  34151 multiletter control sequences out of 15000+600000
  494874 words of font info for 60 fonts, out of 8000000 for 9000
+=======
+[14]) (B.Tech_mini.bbl) [15
+
+] [16
+
+]
+APPENDIX A.
+[17
+
+]
+APPENDIX B.
+[18
+
+]
+
+Package natbib Warning: There were undefined citations.
+
+[19
+
+] (B.Tech_mini.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `B.Tech_mini.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `B.Tech_mini.out':
+(rerunfilecheck)             Before: 983E186686FDBC357A5EF15A5402DDF5;5358
+(rerunfilecheck)             After:  6EADE2721C73E956E8E7AF1E8169CDE2;5287.
+ ) 
+Here is how much of TeX's memory you used:
+ 13119 strings out of 475380
+ 214494 string characters out of 2778187
+ 576550 words of memory out of 3000000
+ 34188 multiletter control sequences out of 15000+600000
+ 495495 words of font info for 62 fonts, out of 8000000 for 9000
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
  1141 hyphenation exceptions out of 8191
  70i,14n,77p,1040b,515s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Us
@@ -856,6 +1382,7 @@ ts/cm/cmr12.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
 msfonts/cm/cmr8.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmsy10.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type
 1/public/amsfonts/cm/cmsy8.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts
+<<<<<<< HEAD
 /type1/urw/times/utmb8a.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/urw/times/utmr8a.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1
 /urw/times/utmri8a.pfb>
@@ -864,4 +1391,15 @@ PDF statistics:
  413 PDF objects out of 1000 (max. 8388607)
  76 named destinations out of 1000 (max. 500000)
  334 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+/type1/urw/courier/ucrr8a.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/
+type1/urw/times/utmb8a.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/urw/times/utmr8a.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/
+urw/times/utmri8a.pfb>
+Output written on B.Tech_mini.pdf (32 pages, 4787692 bytes).
+PDF statistics:
+ 451 PDF objects out of 1000 (max. 8388607)
+ 83 named destinations out of 1000 (max. 500000)
+ 362 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> da5d510a18713a0bf36cffc1bc12cfc95bf4234c
 
