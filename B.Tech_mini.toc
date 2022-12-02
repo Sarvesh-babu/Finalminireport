@@ -19,7 +19,7 @@
 \contentsline {section}{\numberline {1.10}Other useful \LaTeX \ packages}{3}{section.1.10}%
 \contentsline {chapter}{\numberline {2}OBJECTIVES}{5}{chapter.2}%
 \contentsline {chapter}{\numberline {3}EXPERIMENTAL WORK / METHODOLOGY}{6}{chapter.3}%
-\contentsline {section}{\numberline {3.1}*****}{6}{section.3.1}%
+\contentsline {section}{\numberline {3.1}Vehicle Classification}{6}{section.3.1}%
 \contentsline {section}{\numberline {3.2}*****}{6}{section.3.2}%
 \contentsline {section}{\numberline {3.3}*****}{6}{section.3.3}%
 \contentsline {chapter}{\numberline {4}RESULTS \& DISCUSSION}{7}{chapter.4}%
@@ -28,7 +28,7 @@
 \contentsline {section}{\numberline {4.3}*****}{9}{section.4.3}%
 \contentsline {chapter}{\numberline {5}CONCLUSIONS AND FURTHER WORK}{10}{chapter.5}%
 \contentsline {chapter}{REFERENCES}{13}{chapter.5}%
-\contentsline {chapter}{PUBLICATIONS}{14}{chapter*.16}%
+\contentsline {chapter}{PUBLICATIONS}{14}{chapter*.17}%
 \contentsline {chapter}{\numberline {A}FIRST SET DATA}{15}{appendix.A}%
 \contentsline {chapter}{\numberline {B}SECOND SET DATA}{16}{appendix.B}%
-\contentsline {chapter}{SIMILARITY CHECK REPORT}{17}{appendix*.17}%
+\contentsline {chapter}{SIMILARITY CHECK REPORT}{17}{appendix*.18}%
