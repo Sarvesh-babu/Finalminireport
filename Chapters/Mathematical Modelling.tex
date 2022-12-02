@@ -1,0 +1,46 @@
+	\chapter{Mathematical Modelling}
+	\label{chap:mathmodel}
+	
+	\section{SoC Calculation}
+	
+	
+		
+	The SoC of the vehicle is calculated from the following equations:
+	
+	\begin{center}
+	
+	                             $SoC_{min}$ $\leq$ $SoC$ $\leq$ $SoC_{max}$
+	                             
+	               $SoC_{y}$ = $SoC_{y-1}$ + $P_{batt}(y)$ $\times$ $\partial y$ $\times$ $\eta c$
+	                 
+	               $SoC_{y}$ = $SoC_{y-1}$ - $P_{batt}(y)$ $\times$ $\partial y$ $\times$ $\eta d$
+	                 
+	               $P_{batt}(y)$ = $SoC_{y}$ $\times$ $E$
+	               
+	  Initial Power = Generation - Load
+	\end{center}
+	  SoC limits:  
+	 
+	   $SoC_{min}$ and $SoC_{max}$ are  the maximum and minimum SoC of the EV respectively.
+	   This constraint allows the SoC to vary between predefined minimum and maximum SoC.               
+	
+	\section{Best Pattern for charging}
+	
+	
+	The charging pattern is determined by comparing the Energy required to the Real Time Price and by  identifying the minimum of it. 
+	
+	\begin{center}
+		
+		$T_{n}$ = $\sum^{24}_{i=1}$ ($Ch_{t} $ $\times$ [1 || 0 || -1 ] ) $\ast $ $Rtp_{i}$ 
+    \end{center}	 
+	\section{Maximum Power required by EV}
+	
+	
+	Maximum Power demand occurs when all the three vehicles loads are high and the time block of maximum demand is identified. 
+	
+	\begin{center}
+		
+		$P_{t(total)}$ = $P_{t(car)}$ + $P_{t(truck)}$ + $P_{t(bus)}$
+		
+		$P_{t(total)}$ = argmax $\pi_{i}^{24}$ $\ast$ $P_{t(total)}$
+	\end{center} 
